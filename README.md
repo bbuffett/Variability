@@ -2,5 +2,5 @@ Software for study of the variability of the geomagnetic field. ConvectionVarian
 
 Files needed to read a geodynamo simulation, "stabletop29percent", from Aubert et al. 2025 are also included. StableTop29.ipynb reads the dynamo files and displays the results. CorrectPower.ipynb corrects the convective power to account for the influence of viscous dissipation and inertia.
 
-Reference
+Reference:
 Aubert et al., 2026. Core-surface kinematic control of polarity reversals in advanced geodynamo simulations, Phys. Earth Planet. Inter. 364, 107365.
