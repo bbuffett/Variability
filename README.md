@@ -4,4 +4,5 @@ Files needed to read three geodynamo simulations. Input files power1.dat, e_mag1
 
 Reference:
 Aubert et al., 2025. Core-surface kinematic control of polarity reversals in advanced geodynamo simulations, Phys. Earth Planet. Inter. 364, 107365.
+
 Aubert, 2026. Geodynamo simulations spanning millennia in physical conditions of the Earth's core, J. Studies of Earth's Deep Inter. 2, 17790.
