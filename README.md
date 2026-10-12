@@ -1,6 +1,6 @@
 Software for study of the variability of the geomagnetic field. ConvectionVariance.ipynb describes a stochastic model for the convective power in the core. The convective power is used in a dynamo energy balance to predict fluctuations in the magnetic energy.
 
-Files needed to read three geodynamo simulations. Input files power1.dat, e_mag1.dat and e_kin1.dat refer to neutral top from Aubert et al. (2025). Input files power2.dat, e_mag2.dat and e_kin2.dat refer to "stabletop29percent" from Aubert et al. (2025). Input files power3.dat, e_mag3.dat and e_kin3.dat refer to Case U from Aubert (2026). Notebooks NeutralTop.ipynb, StableTop29.ipynb and CaseU.ipynb are specifically written to read the dynamo files and displays the results. CorrectPower.ipynb corrects the convective power to account for the influence of viscous dissipation and inertia. 
+Repository includes files needed to read and analyze three geodynamo simulations. Input files power1.dat, e_mag1.dat and e_kin1.dat refer to neutral top from Aubert et al. (2025). Input files power2.dat, e_mag2.dat and e_kin2.dat refer to "stabletop29percent" from Aubert et al. (2025). Input files power3.dat, e_mag3.dat and e_kin3.dat refer to Case U from Aubert (2026). Notebooks NeutralTop.ipynb, StableTop29.ipynb and CaseU.ipynb are specifically written to read the dynamo files and displays the results. CorrectPower.ipynb corrects the convective power to account for the influence of viscous dissipation and inertia. 
 
 References
 
